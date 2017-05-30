@@ -2,8 +2,7 @@
 \select@language {french}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@sectionintoc {2}{Repr\'esentation des donn\'ees}{4}{0}{2}
-\beamer@sectionintoc {3}{Probl\`eme d'unicit\'e}{9}{0}{3}
-\beamer@sectionintoc {4}{Interraction Homme Machine \& Fonctionnalit\'ees}{17}{0}{4}
-\beamer@sectionintoc {5}{\'Evolution de l'IHM et Tests utilisateurs}{34}{0}{5}
-\beamer@sectionintoc {6}{Intelligence Artificielle}{44}{0}{6}
-\beamer@sectionintoc {7}{Quelques pistes d'am\'elioration}{48}{0}{7}
+\beamer@sectionintoc {3}{Interraction Homme Machine \& Fonctionnalit\'ees}{19}{0}{3}
+\beamer@sectionintoc {4}{\'Evolution de l'IHM et Tests utilisateurs}{40}{0}{4}
+\beamer@sectionintoc {5}{Intelligence Artificielle}{50}{0}{5}
+\beamer@sectionintoc {6}{Quelques pistes d'am\'elioration}{54}{0}{6}
